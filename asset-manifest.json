@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0e99ede7.css",
+    "main.js": "./static/js/main.dabb6320.js",
+    "static/media/DMSansRegular.woff2": "./static/media/DMSansRegular.99b8e0b20a45ca4d73bf.woff2",
+    "static/media/DMSans700.woff2": "./static/media/DMSans700.d5ac740f6f0cf65a6193.woff2",
+    "static/media/logo.svg": "./static/media/logo.8d621a0e55f824df588f83f9a58dd76d.svg",
+    "static/media/nft-light.svg": "./static/media/nft-light.1392cc25f495fa9be97658793e2be87e.svg",
+    "static/media/nft.svg": "./static/media/nft.661fa48a2b2800aa0bb46d91fa71d969.svg",
+    "static/media/assets-light.svg": "./static/media/assets-light.6df1a597cf64f715229a6af430c448ed.svg",
+    "static/media/assets.svg": "./static/media/assets.e6f4abcc8aa3d716a0d0bd49bd8bcd6a.svg",
+    "index.html": "./index.html",
+    "static/media/error-icon.svg": "./static/media/error-icon.30ff2119f3f1887982778f068889486c.svg",
+    "static/media/check.svg": "./static/media/check.c5f7857c2def287b4ac78299d9860eae.svg",
+    "main.0e99ede7.css.map": "./static/css/main.0e99ede7.css.map",
+    "main.dabb6320.js.map": "./static/js/main.dabb6320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e99ede7.css",
+    "static/js/main.dabb6320.js"
+  ]
+}
